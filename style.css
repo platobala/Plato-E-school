@@ -1,0 +1,44 @@
+body{
+    font-family: Poppins;
+}
+.logo img{
+    width: 150px;
+    height: auto;
+}
+.btn{
+    background-color: #21B573;
+    border-radius: 33px;
+}
+.top-banner{
+    width: 800px;
+    height: 376px;
+    background-color: #F0FFF0;
+}
+h1{
+    color: #000000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+}
+#text-design{
+    color: #21B573;
+}
+h6{
+    font-size: 16px;
+    color: #FD511A;
+}
+.btn-get-started{
+    width: 143px;
+    height: 43px;
+    left: 205px;
+    top: 470px;
+    background: #21B573;
+    border-radius: 40px;
+}
+#article-style{
+    color: #6C6B6B;
+}
+
+.top-banner img{
+    width: 550px;
+}
