@@ -85,3 +85,21 @@ h6{
 .footer-top{
     background-color: #111;
 }
+.segment-one{
+    color: #999;
+}
+.segment-two{
+    color: #999;
+}
+.segment-three{
+    color: #999;
+}
+.segment-four{
+    color: #999;
+    text-decoration: none;
+}
+.footer-bottom-text{
+    text-align: center;
+    background: #000;
+    line-height: 75px;
+}
