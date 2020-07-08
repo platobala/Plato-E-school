@@ -42,29 +42,24 @@ h6{
 #article-style{
     color: #6C6B6B;
 }
-.card{
-    width: 150x;
-    height: 150px;
-    background: #F8FFFB;
-    border: none;
-    box-shadow: 5px 5px 10px lightgray;    
-}
-.card-deck img{
-    width: 40px;
-    height: 65px;
-}
-.card-text{
-    font-size: 10px;
-    text-align: center;
-    color: #585859;
-}
-
-.categories img{
-    position: absolute;
-    width: 331px;
-    height: 234px;    
-}
 
 .top-banner img{
     width: 550px;
+}
+.card-img-top{
+    width: 150px;
+}
+
+.card-deck{
+    margin: auto;
+}
+.card-title{
+    color: #413960;
+}
+.card-text{
+    font-size: 12px;
+    color: #585859;
+}
+.card-deck{
+    border: none;
 }
