@@ -43,21 +43,26 @@ h6{
     color: #6C6B6B;
 }
 .card{
-    width: 270px;
-    height: 270px;
+    width: 150x;
+    height: 150px;
     background: #F8FFFB;
     border: none;
-    box-shadow: 5px 5px 10px lightgray;
-
-    
+    box-shadow: 5px 5px 10px lightgray;    
 }
 .card-deck img{
-    width: 66px;
-    height: 85px;
+    width: 40px;
+    height: 65px;
 }
 .card-text{
+    font-size: 10px;
     text-align: center;
     color: #585859;
+}
+
+.categories img{
+    position: absolute;
+    width: 331px;
+    height: 234px;    
 }
 
 .top-banner img{
